@@ -39,7 +39,7 @@ python data_generation_scripts/attention_analysis_full_prompt.py --model llama -
 
 ```bibtex
 @misc{palatsiLargeLanguageModels2025,
-  title = {Large Language Models Replicate and Predict Human Cooperation across Experiments in Game Theory},
+  title = {Large language models replicate and predict human cooperation across experiments in game theory},
   author = {Palatsi, Andrea Cera and {Martin-Gutierrez}, Samuel and Cardenal, Ana S. and Pellert, Max},
   year = {2025},
   month = nov,
