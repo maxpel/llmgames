@@ -1,4 +1,4 @@
-# Large Language Models Replicate and Predict Human Cooperation Across Experiments in Game Theory
+# Large language models replicate and predict human cooperation across experiments in game theory
 
 Code and data for the paper: Palatsi et al. ([arXiv:2511.04500](https://arxiv.org/abs/2511.04500))
 
